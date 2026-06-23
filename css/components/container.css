@@ -1,0 +1,5 @@
+.container {
+  max-width: 1140px;   /* à ajuster selon ton design */
+  margin: 0 auto;      /* centre horizontalement */
+  padding: 0 20px;     /* évite que le contenu colle aux bords sur mobile */
+}
